@@ -1,0 +1,6 @@
+{
+  "short_name": "MasternodeX",
+  "name": "MasternodeX",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
